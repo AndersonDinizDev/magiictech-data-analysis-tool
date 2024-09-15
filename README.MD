@@ -1,6 +1,6 @@
 # Ferramenta de Análise de Dados Internos da Magiic Tech Solutions
 
-Este projeto faz parte de um projeto de extensão desenvolvido para a Magiic Tech Solutions, uma startup fictícia especializada em consultoria e desenvolvimento de soluções baseadas em dados. A ferramenta desenvolvida tem como objetivo facilitar a análise e visualização de dados internos para melhorar a tomada de decisões estratégicas.
+Este projeto faz parte de um projeto de extensão desenvolvido para a Magiic Tech Solutions, uma startup especializada em consultoria e desenvolvimento de soluções baseadas em dados. A ferramenta desenvolvida tem como objetivo facilitar a análise e visualização de dados internos para melhorar a tomada de decisões estratégicas.
 
 ## Objetivos
 
